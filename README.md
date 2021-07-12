@@ -15,3 +15,9 @@
   Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
     - The statement is false because Scikit-learn is focused on ML and not with loading, handling, manupulating, and visualizing of data. 
     
+# Day 4 
+  Q: Think about a real-world problem and see if you can find a dataset that has the characteristics of the data of that problem. Then, think about the deep learning algorithm that you would likely use to develop a solution to it. Outline why you picked a particular approach. 
+  A: A list of cancerous tumors. You could use either a recurrent neural network or convolutional neural network. I picked both of these approaches because they have memory in order to train themselves. The convolutional neural networks in this case would be the best approach as it has both feed forward and recurrent NN. 
+    
+   
+    
