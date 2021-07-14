@@ -17,7 +17,14 @@
     
 # Day 4 
   Q: Think about a real-world problem and see if you can find a dataset that has the characteristics of the data of that problem. Then, think about the deep learning algorithm that you would likely use to develop a solution to it. Outline why you picked a particular approach. 
-  A: A list of cancerous tumors. You could use either a recurrent neural network or convolutional neural network. I picked both of these approaches because they have memory in order to train themselves. The convolutional neural networks in this case would be the best approach as it has both feed forward and recurrent NN. 
+  A: A list of cancerous tumors. You could use convolutional neural network. I picked this approach CNN because has memory in order to train themselves. The convolutional neural networks in this case would be the best approach as it can learn from its past mistakes and with the weights and data. 
+  
+# Day 7
+  What are “Tensors” and what are they used for in Machine Learning?
+  Tensors represent the types of data holders, basically there are 4 types. Scalar which is just a single digit like 11 or 3. Vector, which is represented through 1-Dimentional Array. Matrix which is represented through 2-Dimentional Arrays. And finally there are Cubes of Matrices which can hold a, for example, 3 by 3 by 3 data's. 
+  What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+  That you can import tensorflow as a package, and call upon tensorflow methods in order for the computer to modify/perform actions that you want it to do. 
+
     
    
     
