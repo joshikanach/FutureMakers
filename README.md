@@ -24,6 +24,11 @@
   Tensors represent the types of data holders, basically there are 4 types. Scalar which is just a single digit like 11 or 3. Vector, which is represented through 1-Dimentional Array. Matrix which is represented through 2-Dimentional Arrays. And finally there are Cubes of Matrices which can hold a, for example, 3 by 3 by 3 data's. 
   What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
   That you can import tensorflow as a package, and call upon tensorflow methods in order for the computer to modify/perform actions that you want it to do. 
+  
+# Day 8 
+  This was a pretty interesting day, as my mentor helped me with importing the data for the program. Then I coded the Titanic project. I learned different things throughout
+  copying the code from the Kaggle, firstly there is a difference between Mnist data and just regular data that should be imported. I also learned that the training process is
+  the longest process, then everything else become easier for the machine. 
 
     
    
