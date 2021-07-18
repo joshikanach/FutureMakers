@@ -30,6 +30,12 @@
   copying the code from the Kaggle, firstly there is a difference between Mnist data and just regular data that should be imported. I also learned that the training process is
   the longest process, then everything else become easier for the machine. 
 
-    
+# Day 9 
+
+
+# Day 10 
+   How do you think Machine Learning or AI concepts were utilized in the design of this game? They used my data (the data I fed in or trained the model with) and then used Apple's datasets, in order for the machine to recruit people. Therefore, there was machine learning processes involved with my decision making which impacted the overall output of the recruition of people. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and
+equitable? Please reflect on why you selected this specific biased model. The most common one, the recruiting process --> the main goal is to have a model that is fair, but sometimes the input and the training aspect of making a model train is very important. I want to create a seperate model, that has been trained of the possible biases that can occur while a different machine learning model can make. By creating this new model, we can implement it into the model that is actually recruiting people, in order to avoid the biases. I know that is it hard to implement it, but we can have a machine that will give the recruiters the common patterns it identified while the recuriting machine is making and from there on, the recruiters can tune the model to how they want the machine to work. 
+   
    
     
