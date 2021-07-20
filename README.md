@@ -37,5 +37,10 @@
    How do you think Machine Learning or AI concepts were utilized in the design of this game? They used my data (the data I fed in or trained the model with) and then used Apple's datasets, in order for the machine to recruit people. Therefore, there was machine learning processes involved with my decision making which impacted the overall output of the recruition of people. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and
 equitable? Please reflect on why you selected this specific biased model. The most common one, the recruiting process --> the main goal is to have a model that is fair, but sometimes the input and the training aspect of making a model train is very important. I want to create a seperate model, that has been trained of the possible biases that can occur while a different machine learning model can make. By creating this new model, we can implement it into the model that is actually recruiting people, in order to avoid the biases. I know that is it hard to implement it, but we can have a machine that will give the recruiters the common patterns it identified while the recuriting machine is making and from there on, the recruiters can tune the model to how they want the machine to work. 
    
-   
+# Day 11
+
+
+# Day 14 
+  Today, I learned about loss functions. I then created a model using a tutorial --> https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4 
+  I was pretty impressed with the functionalities that loss functions provide with, and it was cool it see it in action when building the model
     
