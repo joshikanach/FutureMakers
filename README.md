@@ -44,3 +44,12 @@ equitable? Please reflect on why you selected this specific biased model. The mo
   Today, I learned about loss functions. I then created a model using a tutorial --> https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4 
   I was pretty impressed with the functionalities that loss functions provide with, and it was cool it see it in action when building the model
     
+# Day 15 
+  Advantages of ReLU functions: 
+    - They are cost-efficient and time saving
+    - They only fire a few neurons at a time, which calls for efficiency and the easiness of using the ReLU functions 
+    - They learn faster than a Sigmoid or a Tanh function
+    - There is a reduced likely hood of vanishing gradient as well, therefore less prone to errors 
+ Use case of ReLU function: 
+    - ReLU's are usually implemented in hidden layers but can be both in hidden as well as output layers 
+    - We can use a ReLU in a multilayer perceptron or in a convenetional neural network
