@@ -31,18 +31,18 @@
   the longest process, then everything else become easier for the machine. 
 
 # Day 9 
-
+  Today I learned about Convolutional Neural Networks. I visually saw CNN's at work with classifying handwritten digits. I also learned about confusion matrix and how it is evaluated. I also took notes while learning about the different concepts of CNN's which can be found at this link: https://stripe-slipper-21b.notion.site/Convolutional-Neural-Networks-bd2fbd350cd8495f860d9f281dea4444. I also created a project based on a tutorial: https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial. The file is uploaded on GitHub - Introduction to CNN's - Day 9. 
 
 # Day 10 
    How do you think Machine Learning or AI concepts were utilized in the design of this game? They used my data (the data I fed in or trained the model with) and then used Apple's datasets, in order for the machine to recruit people. Therefore, there was machine learning processes involved with my decision making which impacted the overall output of the recruition of people. Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and
 equitable? Please reflect on why you selected this specific biased model. The most common one, the recruiting process --> the main goal is to have a model that is fair, but sometimes the input and the training aspect of making a model train is very important. I want to create a seperate model, that has been trained of the possible biases that can occur while a different machine learning model can make. By creating this new model, we can implement it into the model that is actually recruiting people, in order to avoid the biases. I know that is it hard to implement it, but we can have a machine that will give the recruiters the common patterns it identified while the recuriting machine is making and from there on, the recruiters can tune the model to how they want the machine to work. 
    
 # Day 11
-
+  Today I got a in depth understanding of the different layers in a neural network and the roles of NN in a CNN model. I got to learn that there are differences in CNN models itself, where there are the CNN and the Fully Connected NN. The convolutional layer is the basic or the foundational block of the CNN model. The pooling layer, help break the model into smaller pieces, so that it is easier for the model to solve the given problem or analyze certain patterns in the end. And finally, neurons in this layer have connections and are connected to other neurons in which all the neurons proceed to the conclusion or the output. 
 
 # Day 14 
   Today, I learned about loss functions. I then created a model using a tutorial --> https://hackernoon.com/build-your-first-neural-network-to-predict-house-prices-with-keras-3fb0839680f4 
-  I was pretty impressed with the functionalities that loss functions provide with, and it was cool it see it in action when building the model
+  I was pretty impressed with the functionalities that loss functions provide with, and it was cool it see it in action when building the model.
     
 # Day 15 
   Advantages of ReLU functions: 
