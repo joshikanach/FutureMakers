@@ -53,3 +53,9 @@ equitable? Please reflect on why you selected this specific biased model. The mo
  Use case of ReLU function: 
     - ReLU's are usually implemented in hidden layers but can be both in hidden as well as output layers 
     - We can use a ReLU in a multilayer perceptron or in a convenetional neural network
+   
+# Day 16 
+  Today I learned about ethics in AI and created a model to understand ethics and a model classifiying or distinguishing between a male and a female. I feed some images online after I completed my model, I was surprised about one thing: so when a female had her hair up, the algorithm classified the image as a male and I was impressed by actually seeing the biases that can occur within AI. I tried re-feeding different images, and then it was working properly. 
+
+#Day 17 
+
