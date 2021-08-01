@@ -59,3 +59,13 @@ equitable? Please reflect on why you selected this specific biased model. The mo
 
 # Day 17 
 
+# Day 18 
+
+# Day 21
+
+# Day 22
+
+# Day 23
+
+# Day 24 
+
