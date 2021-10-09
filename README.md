@@ -56,16 +56,3 @@ equitable? Please reflect on why you selected this specific biased model. The mo
    
 # Day 16 
   Today I learned about ethics in AI and created a model to understand ethics and a model classifiying or distinguishing between a male and a female. I feed some images online after I completed my model, I was surprised about one thing: so when a female had her hair up, the algorithm classified the image as a male and I was impressed by actually seeing the biases that can occur within AI. I tried re-feeding different images, and then it was working properly. 
-
-# Day 17 
-
-# Day 18 
-
-# Day 21
-
-# Day 22
-
-# Day 23
-
-# Day 24 
-
